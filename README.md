@@ -23,11 +23,6 @@ While there's too much to cover and too less time, we will restrict this guide t
 # About the Speaker
 I'm [Mahendra Dani](https://mahendradani.vercel.app), CS undergrad and I live on the terminal.
 
-Let's Connect: 
-- [Website](https://mahendradani.vercel.app) 
-- [GitHub](https://github.com/MahendraDani) 
-- [Linkedin](https://linkedin.com/in/mahendra-dani)
-
 ## Why you should trust me?
 I have been contributing to Open Source since 2022 both individually and via programs. I have contributed to [The Palisadoes Foundation](https://www.palisadoes.org/), [AsyncAPI](https://www.asyncapi.com/), [JSON Schema](https://json-schema.org/) and more.
 
@@ -254,6 +249,11 @@ Hence I will recommend you to follow the resources :
 - [Git and Github Tutorial](https://youtu.be/apGV9Kg7ics) by Kunal Kushwaha
 
 If you found this guide helpful, I request you to please reach out to me on my socials and provide feedback and necessary changes.
+Let's Connect: 
+- [Website](https://mahendradani.vercel.app) 
+- [GitHub](https://github.com/MahendraDani) 
+- [Linkedin](https://linkedin.com/in/mahendra-dani)
+
 
 Thanks!
 
