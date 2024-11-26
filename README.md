@@ -120,7 +120,7 @@ git status
 ![git status after adding](/public/git-status-after-add.png)
 
 - After commiting the file:
-![git status after commit](image.png)
+![git status after commit](/public/git-status-after-commit.png)
 
 ## 5. `git log`
 This command is used to log the previous commit in codebase. This is required when reverting to previous commiting and checking out the previous commit.
